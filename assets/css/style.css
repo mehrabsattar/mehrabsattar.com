@@ -222,6 +222,8 @@ p { margin: 0 0 1em; }
 .brand .dot { color: var(--accent-strong); }
 .brand:hover { color: var(--brand); }
 
+.nav-menu { display: flex; align-items: center; gap: 2.2rem; }
+
 .nav-links { display: flex; align-items: center; gap: 2rem; list-style: none; margin: 0; padding: 0; }
 .nav-links a {
   font-family: var(--font-head);
